@@ -3,8 +3,6 @@
 ## ***This project implements Flocking Stimulation mentioned in***
 - ### ***Craig Reynolds's Paper***
 
-
-
 ------------------------------------------------------------------------------------------------------
 
 Link to his paper - [**Paper**](http://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/)
@@ -22,6 +20,9 @@ Another Link to as an Aid to his explanation  - [**Aid**](https://www.red3d.com/
 
 
 ## Flocking Stimulation
+
+
+   3D not implemented yet
 
 ![](https://github.com/Akshat1Nar/Boiding-Application/blob/master/PNG/Screenshot%202020-08-02%2009:23:37.png)
 
