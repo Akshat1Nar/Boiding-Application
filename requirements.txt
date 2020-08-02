@@ -1,0 +1,3 @@
+Kivy==1.11.1
+objloader==0.2.0
+psutil==5.7.0
